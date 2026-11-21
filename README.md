@@ -1,11 +1,11 @@
-# 🎙️ Spoken Digit & Speaker Recognition — CNN on audio spectrograms
+# Spoken Digit & Speaker Recognition: CNN on audio spectrograms
 
 Two classification tasks on the [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) (6 speakers × 10 digits × 50 recordings):
 
 1. **Which digit is spoken?** (10 classes)
 2. **Who is speaking?** (6 classes)
 
-…and a **multi-input fusion network** that combines a mel-spectrogram CNN with an FFT-spectrum network to improve digit recognition.
+It also includes a **multi-input fusion network** that combines a mel-spectrogram CNN with an FFT-spectrum network to improve digit recognition.
 
 > 🇫🇷 Projet de 1re année d'ingénieur (Arts et Métiers, PJT1A). Le notebook de départ (chargement des données, fonctions utilitaires) était fourni par l'école ; les architectures, l'étude FFT et le réseau de fusion sont mon travail.
 
@@ -45,6 +45,6 @@ Open `notebooks/spoken_digit_speaker_recognition.ipynb` in Google Colab, set you
 Data augmentation (noise, pitch shift), dropout / early stopping, end-to-end training of the fusion model instead of stacking frozen predictions.
 
 ## Author
-**Teddy Thamrong** — Élève-ingénieur Arts et Métiers (expertise robotique & IA) · recherche un stage de fin d'études en IA à partir de septembre 2027.
+**Teddy Thamrong**, Élève-ingénieur Arts et Métiers (expertise robotique & IA) · recherche un stage de fin d'études en IA à partir de septembre 2027.
 
 License: MIT
