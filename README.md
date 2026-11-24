@@ -45,6 +45,6 @@ Open `notebooks/spoken_digit_speaker_recognition.ipynb` in Google Colab, set you
 Data augmentation (noise, pitch shift), dropout / early stopping, end-to-end training of the fusion model instead of stacking frozen predictions.
 
 ## Author
-**Teddy Thamrong**, Élève-ingénieur Arts et Métiers (expertise robotique & IA) · recherche un stage de fin d'études en IA à partir de septembre 2027.
+**Teddy Thamrong**, élève-ingénieur à l'École nationale supérieure d'Arts et Métiers (ENSAM), expertise IRIS (machine learning et robotique) · recherche un stage de fin d'études en IA à partir de février ou de septembre 2027.
 
 License: MIT
