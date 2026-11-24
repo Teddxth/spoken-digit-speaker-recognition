@@ -7,7 +7,7 @@ Two classification tasks on the [Free Spoken Digit Dataset](https://github.com/J
 
 It also includes a **multi-input fusion network** that combines a mel-spectrogram CNN with an FFT-spectrum network to improve digit recognition.
 
-> 🇫🇷 Projet de 1re année d'ingénieur (Arts et Métiers, PJT1A). Le notebook de départ (chargement des données, fonctions utilitaires) était fourni par l'école ; les architectures, l'étude FFT et le réseau de fusion sont mon travail.
+> Projet de 1re année d'ingénieur (Arts et Métiers, PJT1A). Le notebook de départ (chargement des données, fonctions utilitaires) était fourni par l'école ; les architectures, l'étude FFT et le réseau de fusion sont mon travail.
 
 ---
 
